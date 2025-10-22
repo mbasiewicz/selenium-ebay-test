@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Pytest
+.pytest_cache/
+*.log
+
+# Selenium
+driver.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OD
+.DE_Store
+Thumbs.db
+
+#test file 
+test_kodilla.py
