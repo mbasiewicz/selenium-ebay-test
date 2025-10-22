@@ -21,7 +21,7 @@ Test `test_search` sprawdza:
 1. Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/TWOJA-NAZWA/selenium-ebay-test.git
+git clone https://github.com/mbasiewicz/selenium-ebay-test.git
 cd selenium-ebay-test
 ```
 
@@ -63,4 +63,5 @@ pytest test_ebay.py --driver Firefox -v
 
 ## Autor
 
-Projekt wykonany w ramach kursu Kodilla - Moduł 2.3
+Projekt wykonany w ramach kursu Kodilla
+Moduł 2.3
